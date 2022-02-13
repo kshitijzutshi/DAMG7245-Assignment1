@@ -24,6 +24,9 @@ Run the [CodeLab Live Here](https://codelabs-preview.appspot.com/?file_id=1PctEb
 
 
 Project Organization
+
+[Check the cookie-cutter generated directory structure here.](https://github.com/kshitijzutshi/DAMG7245-Assignment1/tree/main/data-ingestion-and-visualization-using-gcp)
+
 ------------
 ### Requirements to use the cookiecutter template:
 -----------
@@ -40,8 +43,6 @@ or
 $ conda config --add channels conda-forge
 $ conda install cookiecutter
 ```
-
-[Check the cookie-cutter generated directory structure here.](https://github.com/kshitijzutshi/DAMG7245-Assignment1/tree/main/data-ingestion-and-visualization-using-gcp)
 
     ├── LICENSE
     ├── Makefile           <- Makefile with commands like `make data` or `make train`
