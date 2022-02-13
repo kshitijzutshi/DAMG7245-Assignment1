@@ -1,5 +1,7 @@
 # Data Ingestion and Visualization using GCP
 
+[Live GitHub Page](https://kshitijzutshi.github.io/DAMG7245-Assignment1/) :rocket:
+
 ### Understanding the SEVIR dataset
 
 Asking the following questions -
@@ -23,7 +25,7 @@ Login Using a Google account to access the codelab below
 Run the [CodeLab Live Here](https://codelabs-preview.appspot.com/?file_id=1PctEbzkwbyFJlADhzmLieD-Jzh-_xK5x-QO1SedG3xY#7) :rocket:
 
 
-Project Organization
+### Project Organization
 
 [Check the cookie-cutter generated directory structure here.](https://github.com/kshitijzutshi/DAMG7245-Assignment1/tree/main/data-ingestion-and-visualization-using-gcp)
 
