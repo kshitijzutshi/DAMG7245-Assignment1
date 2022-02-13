@@ -39,6 +39,7 @@ or
 ``` bash
 $ conda config --add channels conda-forge
 $ conda install cookiecutter
+```
 
 [Check the cookie-cutter generated directory structure here.](https://github.com/kshitijzutshi/DAMG7245-Assignment1/tree/main/data-ingestion-and-visualization-using-gcp)
 
