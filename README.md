@@ -44,6 +44,12 @@ $ conda config --add channels conda-forge
 $ conda install cookiecutter
 ```
 
+### To start a new project, run:
+------------
+
+    cookiecutter -c v1 https://github.com/drivendata/cookiecutter-data-science
+
+
     ├── LICENSE
     ├── Makefile           <- Makefile with commands like `make data` or `make train`
     ├── README.md          <- The top-level README for developers using this project.
