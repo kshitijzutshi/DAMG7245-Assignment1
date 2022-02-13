@@ -47,8 +47,9 @@ $ conda install cookiecutter
 ### To start a new project, run:
 ------------
 
+``` bash
     cookiecutter -c v1 https://github.com/drivendata/cookiecutter-data-science
-
+```
 
     ├── LICENSE
     ├── Makefile           <- Makefile with commands like `make data` or `make train`
