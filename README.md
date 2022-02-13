@@ -25,6 +25,20 @@ Run the [CodeLab Live Here](https://codelabs-preview.appspot.com/?file_id=1PctEb
 
 Project Organization
 ------------
+### Requirements to use the cookiecutter template:
+-----------
+ - Python 2.7 or 3.5+
+ - [Cookiecutter Python package](http://cookiecutter.readthedocs.org/en/latest/installation.html) >= 1.4.0: This can be installed with pip by or conda depending on how you manage your Python packages:
+
+``` bash
+$ pip install cookiecutter
+```
+
+or
+
+``` bash
+$ conda config --add channels conda-forge
+$ conda install cookiecutter
 
 [Check the cookie-cutter generated directory structure here.](https://github.com/kshitijzutshi/DAMG7245-Assignment1/tree/main/data-ingestion-and-visualization-using-gcp)
 
